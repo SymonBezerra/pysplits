@@ -5,6 +5,7 @@ Command line interface (CLI) live timer tool with splits for speedruns and gamin
 
 Requirements:
 	- `python`: made with version 3.11
+
 	- `pip install pynput`
 
 For customization: add your splits at the `splits` list.
